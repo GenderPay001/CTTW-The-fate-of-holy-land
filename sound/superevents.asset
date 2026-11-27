@@ -1,0 +1,51 @@
+sound = {
+	name = "superevent_sound_rsfsr"
+	file = "superevent_sound_rsfsr.wav"
+	volume = 1
+}
+
+soundeffect = {
+	name = "superevent_sound_rsfsr"
+	sounds = {
+		sound = "superevent_sound_rsfsr"
+	}
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+	category = ui
+}
+
+sound = {
+	name = "superevent_sound_ural"
+	file = "superevent_sound_ural.wav"
+	volume = 1
+}
+
+soundeffect = {
+	name = "superevent_sound_ural"
+	sounds = {
+		sound = "superevent_sound_ural"
+	}
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+	category = ui
+}
+
+sound = {
+	name = "superevent_sound_isr_victory"
+	file = "superevent_sound_isr_victory.wav"
+	volume = 1
+}
+
+soundeffect = {
+	name = "superevent_sound_isr_victory"
+	sounds = {
+		sound = "superevent_sound_isr_victory"
+	}
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+	category = ui
+}
+
