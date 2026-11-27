@@ -1,6 +1,0 @@
-spriteTypes = {
-    spriteType = {
-        name = "GFX_frontend_bg_basic"
-        texturefile = "gfx/loadingscreens/background/ctw_background.dds"
-    }
-}
