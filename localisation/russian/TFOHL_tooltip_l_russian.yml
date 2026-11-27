@@ -1,9 +1,0 @@
-﻿l_russian:
- refomist_effect_tip:0 "Вы начнёте путь §5реформистов§!."
- likud_effect_tip:0 "Вы начнёте путь §2Ликуд§!"
- anti_terrorism_tip:0 "Вы откроете §Yрешения§! на борьбу с §RТерроризом§!"
- new_generals_tip:0 "Вы получите новых §2Генералов§!"
- countdown_tip:0 "§RНачнётся обратный отсчёт§!"
- resistance_crushed_tip:0 "§GАр§!§Wабс§!§bкое§! §Rсопротивление§! подавлено"
- ISR_arab_res_increase_tt:0 "§GАр§!§Wабс§!§bкое§! §Rсопротивление§! вырастит на §R$RIGHT|=%2$"
- ISR_arab_res_decrease_tt:0 "§GАр§!§Wабс§!§bкое§! §Rсопротивление§! упадёт на §7$RIGHT|-=%2$"
