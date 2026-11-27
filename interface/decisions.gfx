@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ISR_arab_resistance_banner"
+		texturefile = "gfx/interface/banners/ISR_arab_resistance_banner.png"
+		legacy_lazy_load = no
+	}
+}
